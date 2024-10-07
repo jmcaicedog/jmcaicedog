@@ -13,7 +13,7 @@
 	
 ## **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1)" width = 250px></picture>
 
 <br>
 
